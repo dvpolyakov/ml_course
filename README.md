@@ -13,4 +13,4 @@
 
 Построение эмбеддингов для текстов: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dvpolyakov/ml_course/blob/master/Word2Vec%20practice.ipynb)
 
-Построение эмбеддингов для текстов: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dvpolyakov/ml_course/blob/master/Word2Vec%20practice.ipynb)
+Построение эмбеддингов для текстов: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dvpolyakov/ml_course/blob/master/Clustering_examples.ipynb)
